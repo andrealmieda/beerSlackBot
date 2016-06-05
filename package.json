@@ -1,0 +1,14 @@
+{
+  "name": "beer-horn-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node bin/bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.5.1"
+  }
+}
